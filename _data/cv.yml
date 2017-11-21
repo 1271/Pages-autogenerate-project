@@ -5,7 +5,7 @@ person:
 #  citizenship: Russia
 #  birthday: 12.04.1990
   email: pavel.makhov@outlook.com
-  site: http://pavelmakhov.com
+  site: https://pavelmakhov.com
   linkedin: /streetturtle
   github: /streetturtle
   stackoverflow: /streetturtle
@@ -88,7 +88,7 @@ technicalSkills:
 sideProjects:
 #  - name: Technical blog
 #    description: My technical blog to share some thoughts/problems-solutions/tutorials on different topics, such as Java, Web development, Linux, Awesome WM.
-#    link: http://pavelmakhov.com
+#    link: https://pavelmakhov.com
 #    type: site
 #    langs: HTML/CSS/Bootstrap
 
@@ -101,7 +101,7 @@ sideProjects:
 
   - name: PDF-element
     description: Web component built with Polymer which allows to render PDF files.
-    link: http://github.com/streetturtle/pdf-element/
+    link: https://github.com/streetturtle/pdf-element/
     type: github
     langs: Polymer
     stars: 22
