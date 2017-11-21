@@ -5,7 +5,7 @@
         (w[c] = w[c] || []).push(function() {
             try {
                 w.yaCounter30785898 = new Ya.Metrika({
-                    id:30785898,
+                    id:{{site.yandex_metrika}},
                     clickmap:true,
                     trackLinks:true,
                     accurateTrackBounce:true
@@ -25,6 +25,6 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="https://mc.yandex.ru/watch/30785898" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="https://mc.yandex.ru/watch/{{site.yandex_metrika}}" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 {% endif %}
